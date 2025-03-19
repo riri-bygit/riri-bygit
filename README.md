@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Rethabile Bore ,a 3rd-year Information And Knowledge Systems student at the<br>University of Pretoria.<br><br>🔭 I’m currently working on COS 301 Software Engineering No-SQL Database Mini-Project<br>👯 I’m looking to collaborate on COS 301 Software Engineering Capstone Project.<br>🌱 I’m currently learning Web-Scraping.<br>
+Hi there! I'm Rethabile Bore ,a 3rd-year Information And Knowledge Systems student at <br>University of Pretoria.<br><br>🔭 I’m currently working on COS 301 Software Engineering No-SQL Database Mini-Project<br>👯 I’m looking to collaborate on COS 301 Software Engineering Capstone Project.<br>🌱 I’m currently learning Web-Scraping.<br>
 
 
 ## 🌐 Socials:
